@@ -32,3 +32,8 @@ h1{
 	border-bottom: thin solid #ccc;
 	padding: 10px;
 }
+
+.center{	
+	text-align: center;
+}
+
